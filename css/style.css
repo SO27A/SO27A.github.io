@@ -371,8 +371,8 @@ ul#nav li a:hover {
   overflow: hidden;
 }
 
-#about a, #about a:visited  { color: #11ABB0; }
-#about a:hover, #about a:focus { color: #ABB011; }
+#about a, #about a:visited  { color: #fff; }
+#about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h1 {
    color: #fff;
@@ -511,11 +511,11 @@ ul#nav li a:hover {
 
 #about .download .button {
    margin-top: 6px;
-   background: #fff; 
+   background:  #11abb0;
 }
 
 #about .download .button:hover {
-   background: #11abb0;
+   background: #fff;
    color: #2B2B2B;
 }
 #about .button i {
